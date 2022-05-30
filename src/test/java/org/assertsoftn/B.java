@@ -15,7 +15,10 @@ System.out.println("Test B2");
 private void testB3() {
 System.out.println("Test b3");
 }
-	
+@Test
+private void testB4() {
+System.out.println("Test b4");
+}	
 	
 	
 	
